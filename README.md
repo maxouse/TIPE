@@ -5,7 +5,7 @@ This project (part of the French "TIPE" curriculum) focuses on reconstructing 3D
 
 The goal was to find the optimal balance between **metrological precision** and **execution speed (FPS)** for real-time Motion Capture applications.
 
-## 🚀 Key Features
+## Key Features
 * **Rigorous Calibration:** Focal length estimation using linear regression, validated by **Monte Carlo methods** to quantify measurement uncertainty.
 * **Optimized Image Processing:** Marker detection via HSV thresholding and vectorized center-of-mass calculations using `numpy`.
 * **3D Triangulation:** Solving an overdetermined system using the Least Squares method ($A^T Ax = A^T b$) to reconstruct $(X, Y, Z)$ coordinates.
