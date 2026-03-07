@@ -1,0 +1,8 @@
+numpy
+matplotlib
+sympy
+scikit-image
+Pillow
+opencv-python
+numba
+python-resize-image
