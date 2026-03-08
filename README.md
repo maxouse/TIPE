@@ -24,4 +24,4 @@ The system meets realism requirements with noise levels below 3% on trajectories
 ##  Installation
 1. Clone the repo: `git clone https://github.com/your-name/tipe-mocap.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Place your images in the `images3/` folder (a small sample is provided in `sample_data/`).
+3. Read the execution guide
